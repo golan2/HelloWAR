@@ -1,0 +1,1059 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1248eef8-fb14-4629-bd22-90a33396404d" name="Default" comment="" />
+    <ignored path="hello.war.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/../../HelloWAR2/hello.war/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="hello.war" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="logback.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/logback.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="392">
+              <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="518">
+              <caret line="10" column="50" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="61" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DispatcherServlet.class" pinned="false" current-in-tab="true">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.1.1.RELEASE/spring-webmvc-4.1.1.RELEASE.jar!/org/springframework/web/servlet/DispatcherServlet.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.65182185" vertical-offset="0" max-vertical-offset="9534">
+              <caret line="79" column="11" selection-start-line="79" selection-start-column="11" selection-end-line="79" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="context.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/META-INF/context.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="98">
+              <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="882" max-vertical-offset="1750">
+              <caret line="111" column="20" selection-start-line="111" selection-start-column="16" selection-end-line="111" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/target/tomcat/conf/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="7049" max-vertical-offset="7658">
+              <caret line="17" column="15" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+              <folding>
+                <element signature="e#44#831#0" expanded="false" />
+                <element signature="n#servlet#0;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#init-param#0;n#servlet#0;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#init-param#1;n#servlet#0;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="e#7221#7578#0" expanded="false" />
+                <element signature="n#servlet#1;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#init-param#0;n#servlet#1;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#init-param#1;n#servlet#1;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="e#19164#19898#0" expanded="false" />
+                <element signature="e#22142#22609#0" expanded="false" />
+                <element signature="n#servlet-mapping#0;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="e#23241#23385#0" expanded="false" />
+                <element signature="n#servlet-mapping#1;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#servlet-mapping#2;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="e#23734#23871#0" expanded="false" />
+                <element signature="e#23927#24067#0" expanded="false" />
+                <element signature="e#26872#27587#0" expanded="false" />
+                <element signature="e#27713#27846#0" expanded="false" />
+                <element signature="n#session-config#0;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#0;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#1;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#2;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#3;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#4;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#5;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#6;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#7;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#8;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#9;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#10;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#11;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#12;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#13;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#14;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#15;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#16;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#17;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#18;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#19;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#20;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#21;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#22;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#23;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#24;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#25;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#26;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#27;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#28;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#29;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#30;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#31;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#32;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#33;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#34;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#35;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#36;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#37;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#38;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#39;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#40;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#41;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#42;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#43;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#44;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#45;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#46;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#47;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#48;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#49;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#50;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#51;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#52;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#53;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#54;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#55;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#56;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#57;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#58;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#59;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#60;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#61;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#62;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#63;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#64;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#65;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#66;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#67;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#68;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#69;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#70;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#71;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#72;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#73;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#74;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#75;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#76;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#77;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#78;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#79;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#80;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#81;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#82;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#83;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#84;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#85;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#86;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#87;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#88;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#89;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#90;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#91;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#92;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#93;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#94;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#95;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#96;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#97;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#98;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#99;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#100;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#101;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#102;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#103;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#104;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#105;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#106;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#107;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#108;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#109;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#110;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#111;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#112;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#113;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#114;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#115;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="e#43816#43957#0" expanded="false" />
+                <element signature="n#mime-mapping#116;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#117;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#118;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#119;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#120;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#121;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#122;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#123;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#124;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#125;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#126;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#127;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#128;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#129;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#130;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#131;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#132;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#133;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#134;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#135;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#136;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#137;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#138;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#139;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#140;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#141;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#142;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#143;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#144;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#145;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#146;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#147;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#148;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#149;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#150;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#151;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#152;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#153;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#154;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#155;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#156;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#157;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#158;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#159;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#160;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#161;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#162;n#web-app#0;n#!!top" expanded="false" />
+                <element signature="n#mime-mapping#163;n#web-app#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../../HelloWAR2/hello.war/pom.xml" />
+        <option value="$PROJECT_DIR$/../../HelloWAR2/hello.war/src/main/java/golan/hello/war/BaseController.java" />
+        <option value="$PROJECT_DIR$/../../HelloWAR2/hello.war/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml" />
+        <option value="$PROJECT_DIR$/../../HelloWAR2/hello.war/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/../../HelloWAR2/hello.war/src/main/webapp/WEB-INF/pages/index.jsp" />
+        <option value="$PROJECT_DIR$/src/main/resources/logback.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/META-INF/context.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="hello.war Maven Webapp" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="hello.war Maven Webapp" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Lifecycle" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
+        </PATH_ELEMENT>
+      </PATH>
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1" />
+    <option name="y" value="1" />
+    <option name="width" value="1918" />
+    <option name="height" value="1030" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hello.war" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hello.war" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hello.war" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hello.war" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hello.war" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WEB-INF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hello.war" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hello.war" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WEB-INF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hello.war" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hello.war" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="META-INF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hello.war" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hello.war" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/hello.war.iml" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="recentsLimit" value="5" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\golaniz\Documents\Izik\Dropbox\Java\Projects\HelloWAR2\hello.war\src\main\webapp\WEB-INF\pages" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../HelloWAR2/hello.war" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../HelloWAR2/hello.war" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1248eef8-fb14-4629-bd22-90a33396404d" name="Default" comment="" />
+      <created>1433394186945</created>
+      <option name="number" value="Default" />
+      <updated>1433394186945</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1" y="1" width="1918" height="1030" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28432432" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33763188" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25243244" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/logback.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="392">
+          <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/tomcat/conf/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="7049" max-vertical-offset="7658">
+          <caret line="17" column="15" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+          <folding>
+            <element signature="e#44#831#0" expanded="false" />
+            <element signature="n#servlet#0;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#init-param#0;n#servlet#0;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#init-param#1;n#servlet#0;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="e#7221#7578#0" expanded="false" />
+            <element signature="n#servlet#1;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#init-param#0;n#servlet#1;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#init-param#1;n#servlet#1;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="e#19164#19898#0" expanded="false" />
+            <element signature="e#22142#22609#0" expanded="false" />
+            <element signature="n#servlet-mapping#0;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="e#23241#23385#0" expanded="false" />
+            <element signature="n#servlet-mapping#1;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#servlet-mapping#2;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="e#23734#23871#0" expanded="false" />
+            <element signature="e#23927#24067#0" expanded="false" />
+            <element signature="e#26872#27587#0" expanded="false" />
+            <element signature="e#27713#27846#0" expanded="false" />
+            <element signature="n#session-config#0;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#0;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#1;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#2;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#3;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#4;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#5;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#6;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#7;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#8;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#9;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#10;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#11;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#12;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#13;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#14;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#15;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#16;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#17;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#18;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#19;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#20;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#21;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#22;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#23;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#24;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#25;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#26;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#27;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#28;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#29;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#30;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#31;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#32;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#33;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#34;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#35;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#36;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#37;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#38;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#39;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#40;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#41;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#42;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#43;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#44;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#45;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#46;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#47;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#48;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#49;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#50;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#51;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#52;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#53;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#54;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#55;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#56;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#57;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#58;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#59;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#60;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#61;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#62;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#63;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#64;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#65;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#66;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#67;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#68;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#69;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#70;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#71;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#72;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#73;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#74;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#75;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#76;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#77;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#78;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#79;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#80;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#81;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#82;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#83;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#84;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#85;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#86;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#87;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#88;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#89;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#90;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#91;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#92;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#93;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#94;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#95;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#96;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#97;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#98;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#99;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#100;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#101;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#102;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#103;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#104;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#105;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#106;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#107;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#108;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#109;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#110;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#111;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#112;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#113;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#114;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#115;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="e#43816#43957#0" expanded="false" />
+            <element signature="n#mime-mapping#116;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#117;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#118;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#119;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#120;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#121;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#122;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#123;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#124;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#125;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#126;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#127;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#128;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#129;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#130;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#131;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#132;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#133;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#134;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#135;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#136;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#137;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#138;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#139;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#140;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#141;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#142;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#143;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#144;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#145;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#146;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#147;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#148;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#149;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#150;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#151;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#152;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#153;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#154;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#155;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#156;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#157;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#158;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#159;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#160;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#161;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#162;n#web-app#0;n#!!top" expanded="false" />
+            <element signature="n#mime-mapping#163;n#web-app#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="882" max-vertical-offset="1750">
+          <caret line="111" column="20" selection-start-line="111" selection-start-column="16" selection-end-line="111" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="552">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/META-INF/context.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="98">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="518">
+          <caret line="10" column="50" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.1.1.RELEASE/spring-webmvc-4.1.1.RELEASE.jar!/org/springframework/web/servlet/DispatcherServlet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.65182185" vertical-offset="0" max-vertical-offset="9534">
+          <caret line="79" column="11" selection-start-line="79" selection-start-column="11" selection-end-line="79" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Diag common lib 9.30</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.5</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>hello.war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
